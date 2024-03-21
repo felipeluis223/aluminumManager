@@ -1,3 +1,9 @@
+# Passo Banco de dados com os perfis:
+Desenvolver um script para essa coleta de dados.
+
+
+=================================================================================
+
 # Um sistema de gerenciamento de peças(esquadria) em estado de pendência ou conclusão.
 
 #1° parte: 

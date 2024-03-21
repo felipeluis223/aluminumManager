@@ -1,0 +1,18 @@
+Lista de Perfis de Alumínio e Descrição:
+
+Desenvolva um banco de dados que contenha informações detalhadas sobre os diferentes perfis de alumínio disponíveis, incluindo dimensões, formas, acabamentos, e quais tipos de esquadrias cada perfil pode produzir.
+Adicione imagens ou representações gráficas dos perfis para facilitar a identificação visual.
+Preços e Fornecedores:
+
+Integre um módulo que permita cadastrar os preços dos perfis de alumínio fornecidos por diferentes fornecedores.
+Implemente um sistema de comparação de preços para ajudar na tomada de decisão sobre qual fornecedor oferece as melhores condições.
+Inclua informações de contato e histórico de transações com os fornecedores.
+Gestão de Clientes:
+
+Crie um banco de dados para armazenar informações dos clientes, como nome, contato, endereço, histórico de compras, preferências, entre outros detalhes relevantes.
+Desenvolva uma interface que permita o gerenciamento de pedidos e orçamentos para cada cliente.
+Implemente recursos de análise e relatórios para acompanhar o comportamento de compra dos clientes e identificar padrões.
+Gestão de Produção:
+
+Projete um sistema para controlar o processo de fabricação das esquadrias, desde a entrada dos pedidos até a entrega final.
+Inclua funcionalidades para programação de produção, controle de estoque de matéria-prima e produtos acabados, e rastreabilidade dos produtos
