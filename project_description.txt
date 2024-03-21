@@ -1,0 +1,47 @@
+# Um sistema de gerenciamento de peças(esquadria) em estado de pendência ou conclusão.
+
+#1° parte: 
+Adicionar a lista de esquadrias, contendo:
+    * Nome cliente;
+    * Número da produção e etapa;
+    * Número de identificação (exemplo: cx10);
+    * Localização;
+    * Previsão para entrega (data);
+    * Observação (opcional);
+    * Descrição da esquadria.
+
+#2° parte:
+Status do processo:
+    * Etapa:
+        * Corte;
+	* Usinagem;
+	* Montagem;
+	* Vidro;
+	* Embalagem.
+    * Status de cada esquadria para cada etapa:
+        * Pendente - descrição do motivo;
+	* Previsão - data;
+	* Responsável pelo processo atual - CPF;
+
+#3° parte:
+Armazenar em banco de dados:
+    * Clientes:
+        * Nome;
+	* CPF;
+	* Previsão - data;
+	* Telefone/email (contato).
+
+    * Funcionarios:
+        * Nome;
+	* CPF;
+	* Data e hora;
+
+    * Esquadria:
+	* Cliente;
+	* Descrição;
+	* Status;
+
+#4° parte: (EM BREVE)
+Gerar uma análise, diária, mensal e anual. 
+
+
